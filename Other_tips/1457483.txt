@@ -1,0 +1,31 @@
+Software Engineer - Bing Experiences Full Stack
+Suzhou, Jiangsu, China
+ 
+Software Engineer - Bing Experiences Full Stack to job cart
+Job number 1457483 Date postedSep 20, 2022 Travel0-25 % ProfessionEngineering Role type Individual Contributor Employment typeFull-Time Work siteUp to 50% work from home
+The Bing Experiences Team is looking for creative full stack engineers who are passionate about user growth and creating features that increase engagement. We are a team of committed individuals focused on user acquisition, delight, and retention for several Bing projects. We are responsible for identifying new entry points for user acquisition, delighting users with differentiating features, and driving user retention with engaging and valuable experiences.
+
+Our team is constantly experimenting and optimizing how search results are presented to users. As part of our team, you will generate new feature ideas backed by data and user insights, develop these features (using C#, Javascript, and other web technologies), run and analyze A/B experiments, and make informed decisions based on how users are engaging with these features.
+
+You will work closely with peer engineers, designers, program managers, and partner teams to quickly generate and iterate on creative ideas to improve Bing’s relevance and user experience. You can expect us to continually support your growth and always value your insights and contributions.
+
+Our goal is to not only build great products, but great engineers, who will deliver features that positively impact our users' search experience. Come join a creative team and help shape the search experience for millions of users daily!
+
+Responsibilities
+• Design and efficiently implement high quality software features
+• Analyze the results of A/B experiments and make informed decisions on user impact
+• Generate new feature ideas for increasing user awareness and engagement through competitive analysis and user insights
+• Maintain and improve our service monitors and user dashboards, ensuring proper tracking of user growth metrics
+• Work effectively with peer engineers, designers, and program managers to maintain team’s agility
+
+
+Qualifications
+Required Qualifications:
+• 3+ years of experience in software development with C#, C++ and/or Java
+• Demonstrated experience in agile development environment
+• 1+ years of experience in user growth projects
+• BS in Computer Science or Engineer or equivalent industry experience
+
+Preferred Qualifications:
+• Relevant experience in Web development with Javascript, Typescript, HTML and/or CSS
+• Experience in online services development
